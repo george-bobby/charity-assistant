@@ -4,14 +4,17 @@ Simple AI project with the help of Google Gemini API.
 
 ## Installation
 
-1. Clone the repository:
+1. Download the project zip file from the repository.
+
+2. Extract the downloaded zip file.
+
+3. Navigate to the project directory:
 
    ```bash
-   git clone https://github.com/your-username/charity-assistant.git
    cd charity-assistant
    ```
 
-2. Install dependencies:
+4. Install dependencies:
    ```bash
    npm install
    ```
